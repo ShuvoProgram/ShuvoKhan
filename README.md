@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shuvo Khan</h1>
-<h3 align="center">A passionate frontend and back-end developer from Bangladesh.</h3>
+<h3 align="center">A passionate frontend from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvoprogram&label=Profile%20views&color=0e75b6&style=flat" alt="shuvoprogram" /> </p>
 
